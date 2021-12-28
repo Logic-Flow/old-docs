@@ -1,0 +1,23 @@
+{
+  "name": "logicflow-old-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logic-Flow/old-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Logic-Flow/old-docs/issues"
+  },
+  "homepage": "https://github.com/Logic-Flow/old-docs#readme"
+}
