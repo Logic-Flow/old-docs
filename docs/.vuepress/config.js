@@ -117,6 +117,7 @@ module.exports = {
     editLinks: true,
     editLinkText: '在 Github 上改善此页',
     nav: [
+      { text: '新版文档', link: 'https://docs.logic-flow.cn/docs/#/zh/guide/start' },
       { text: '教程', link: '/guide/start' },
       { text: 'API', link: '/api/logicFlowApi' },
       { text: '示例', link: '/usage/bpmn' },
